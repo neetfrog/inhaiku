@@ -2,7 +2,7 @@
 
 Retro Nokia-style news haiku generator built with Next.js and TypeScript.
 
-![inhaiku.lt screenshot](/screenshot.png)
+![inhaiku.lt screenshot](public/screenshot.png)
 
 ## What it is
 
